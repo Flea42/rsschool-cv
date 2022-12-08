@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Flea42.github.io/rsschool-cv/cv
