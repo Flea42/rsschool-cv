@@ -1,7 +1,7 @@
 # Aleksandra Yakutovich
 **Product Manager**
 
-## Contact information:
+## CONTACT INFO:
 
 Tel: *+48 571 914 893*
 
