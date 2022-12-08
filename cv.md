@@ -1,13 +1,24 @@
-##PROFILE
+# Aleksandra Yakutovich
+**Product Manager**
+
+## Contact information:
+Tel: +48 571 914 893
+Email: egel1994@gmail.com
+Telegram: [alexandra_42][https://t.me/alexandra_42]
+
+![photo](/img/photo_cv.jpg)
+
+
+## PROFILE
 
 Result-oriented person with experience in analytics and project management and a strong engineering background. Always ready to provide any support to the teammates. Creative and proactively might contribute ideas to make a working process more productive and comfortable
 
-##EDUCATION
+## EDUCATION
 2011 – 2016 Belarusian National Technical University
 Micro- and nanosystem technology
 Engineer
 
-##EXPERIENCE
+## EXPERIENCE
 
 November 2022 – till now
 **Product manager/Low-code developer**
