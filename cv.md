@@ -3,15 +3,15 @@
 
 ## Contact information:
 
-Tel: +48 571 914 893
+Tel: *+48 571 914 893*
 
-Email: egel1994@gmail.com
+Email: *egel1994@gmail.com*
 
-Telegram: [alexandra_42](https://t.me/alexandra_42)
+Telegram: *[alexandra_42](https://t.me/alexandra_42)*
 
-Discord: 
+Discord: *42 (@Flea42)*
 
-![photo](/photo_cv.jpg =250x250)
+![photo](/photo_cv.png)
 
 
 ## PROFILE
@@ -104,3 +104,10 @@ AS Profile
 * Development of draft, technical and working designs of products
 
 * 3D modeling (SolidWorks).
+
+## LANGUAGES
+English: *Upper-Intermediate*
+
+Belarusian: *Native*
+
+Polish: *Basic*
